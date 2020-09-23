@@ -10,7 +10,7 @@ By building the app, I wanted to find out is there any correlation between the a
 
 ### PWA
 
-It is audited with Googles Progressive Web App Lighthouse test and at the moment the results are "Fast and reliable: 1/3, Installable 3/3, PWA optimized 4/8", so there are still little work to do, although some of the fixes are minor. 
+It is audited with Googles Lighthouse Progressive Web App test and at the moment the results are "Fast and reliable: 1/3, Installable 3/3, PWA optimized 4/8", so there are still little work to do, although some of the fixes are minor. 
 
 ### Tech stack used
 
