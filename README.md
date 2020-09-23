@@ -15,3 +15,17 @@ It is audited with Googles Lighthouse Progressive Web App test and at the moment
 ### Tech stack used
 
 MERN with Ionic (https://ionicframework.com/) for mobile components
+
+### TODO
+
+* [ ] decrease headers height in mobile
+* [ ] fix the charts brush start and endpoints (show full week)
+* [ ] fix charts font sizes
+* [ ] add iOS styles
+* [ ] fix service worker error
+  * getting error of registering service worker even though it seems to be registered and working
+* [ ] fix The script has an unsupported MIME type error
+* [ ] get full scores from lighthouse tests
+* [ ] fix the domain name
+
+
